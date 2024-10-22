@@ -1,0 +1,78 @@
+#para {
+    color: brown;
+    font-size: 30px;
+}
+
+#para1 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.playwrite-gb-s-font {
+    font-family: "Playwrite GB S", cursive;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+#para3 {
+    color: rgb(255, 8, 0);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-transform: none;
+}
+
+#para4 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: overline;
+    text-transform: lowercase;
+}
+
+#para5 {
+    color: rgb(140, 0, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: line-through;
+    text-transform: uppercase;
+}
+
+#para6 {
+    color: rgb(140, 0, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: line-through wavy rgb(0, 0, 0);
+    text-transform: capitalize;
+}
+
+.div1{
+width: 300px;
+height: 100px;
+background-color: aqua;
+border: 2px dotted greenyellow;
+transform: rotateX(180deg);
+}
+
+.div2 {
+    width: 300px;
+    height: 100px;
+    background-color: aqua;
+    border: 2px dotted greenyellow;
+    text-align: center;
+    box-shadow: 10px 10px 70px green;
+}
+
+.div3 {
+    font-size: 30px;
+    background-color: aqua;
+    border: 2px dotted greenyellow;
+    text-align: center;
+    text-shadow: 0px 0px 4px rgb(49, 112, 49);
+}
+
+.div4 {
+text-shadow: 2px 2px 5px red;
+font-size: 30px;
+}
+
+#para7 {
+    text-indent: 50%;
+}
